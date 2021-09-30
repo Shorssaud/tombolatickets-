@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import re
 import string
-import describe_sentence
 from prepare_sentence import prepare_sentence
 
 if __name__ == '__main__':
