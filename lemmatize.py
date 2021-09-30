@@ -1,4 +1,4 @@
-from .get_preconfigured_nlp import nlp
+import nlp
 
 
 def lemmatize(text):

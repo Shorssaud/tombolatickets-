@@ -1,5 +1,5 @@
 import hashlib
-from .prepare_sentence import prepare_sentence
+from prepare_sentence import prepare_sentence
 
 
 def describe_sentence(text):

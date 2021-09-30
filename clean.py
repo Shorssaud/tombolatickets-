@@ -2,7 +2,7 @@ import re
 import emoji
 import string
 import regex
-from .replacements import replacements
+from replacements import replacements
 
 
 def clean(t):
